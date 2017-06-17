@@ -1,2 +1,3 @@
 TextClient/build-*
 TextServer/build-*
+*.user
